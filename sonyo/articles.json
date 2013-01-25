@@ -10,13 +10,14 @@
    "articles":[
       {
          "id":"n1?",
+		 "_comment":"doppelbett1 55880 188breit 207tief ",
          "representations":[
             {
                "resource":"Doppelbett1.png",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-364,
+               "zo":-31,
+               "scale":0.5386
             }
          ],
          "points":[
@@ -35,7 +36,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":1.88,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -46,9 +47,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":1.88,
                "yc":1.0,
-               "zc":1.0
+               "zc":2.07
             }
          ]
       },
@@ -57,11 +58,12 @@
          "representations":[
             {
                "resource":"Doppelbett2.png",
+			   "_comment":"doppelbett2 55980 188breit 207tief ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
-            }
+               "xo":-356,
+               "zo":-36,
+               "scale":0.5386
+			}
          ],
          "points":[
             {
@@ -79,7 +81,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":1.88,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -90,9 +92,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":1.88,
                "yc":1.0,
-               "zc":1.0
+               "zc":2.07
             }
          ]
       },
@@ -101,10 +103,11 @@
          "representations":[
             {
                "resource":"Einzelbett1.png",
+			   "_comment":"einzelbett1 55810 108breit 207tief ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-441,
+               "zo":-30,
+               "scale":0.54
             }
          ],
          "points":[
@@ -123,7 +126,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":1.08,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -134,9 +137,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":1.08,
                "yc":1.0,
-               "zc":1.0
+               "zc":2.07
             }
          ]
       },
@@ -145,10 +148,11 @@
          "representations":[
             {
                "resource":"Einzelbett2.png",
+			   "_comment":"einzelbett2 55910 108breit 207tief ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-402,
+               "zo":-36,
+               "scale":0.54
             }
          ],
          "points":[
@@ -167,7 +171,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":1.08,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -178,9 +182,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":1.08,
                "yc":1.0,
-               "zc":1.0
+               "zc":2.07
             }
          ]
       },
@@ -189,10 +193,11 @@
          "representations":[
             {
                "resource":"Holzrueckenlehne1.png",
+			   "_comment":"holzrueckenlehne1 46568  185breit 25tiefe platte ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-266,
+               "zo":-176,
+               "scale":0.3517
             }
          ],
          "points":[
@@ -211,7 +216,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":1.85,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -222,9 +227,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":1.85,
                "yc":1.0,
-               "zc":1.0
+               "zc":0.1
             }
          ]
       },
@@ -233,10 +238,11 @@
          "representations":[
             {
                "resource":"Holzrueckenlehne2.png",
+			   "_comment":"rueckenlehne2 46398 180breit  ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-260,
+               "zo":-179,
+               "scale":0.3389
             }
          ],
          "points":[
@@ -255,7 +261,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":1.80,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -266,9 +272,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":1.80,
                "yc":1.0,
-               "zc":1.0
+               "zc":0.18
             }
          ]
       },
@@ -277,10 +283,11 @@
          "representations":[
             {
                "resource":"Holzrueckenlehne3.png",
+			    "_comment":" 46538  185breit  ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-425,
+               "zo":-191,
+               "scale":0.3517
             }
          ],
          "points":[
@@ -299,7 +306,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":1.85,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -310,9 +317,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":1.85,
                "yc":1.0,
-               "zc":1.0
+               "zc":0.1
             }
          ]
       },
@@ -321,10 +328,11 @@
          "representations":[
             {
                "resource":"Polsterrueckenlehne1.png",
+			   "_comment":"46558 185breit  ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-220,
+               "zo":-201,
+               "scale":0.3503
             }
          ],
          "points":[
@@ -343,7 +351,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":1.85,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -354,9 +362,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":1.85,
                "yc":1.0,
-               "zc":1.0
+               "zc":0.1
             }
          ]
       },
@@ -365,10 +373,11 @@
          "representations":[
             {
                "resource":"Polsterrueckenlehne2.png",
+			    "_comment":"46388 185breit  ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-284,
+               "zo":-140,
+               "scale":0.3510
             }
          ],
          "points":[
@@ -387,7 +396,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":1.85,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -398,9 +407,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":1.85,
                "yc":1.0,
-               "zc":1.0
+               "zc":0.2
             }
          ]
       },
@@ -409,10 +418,11 @@
          "representations":[
             {
                "resource":"Nachtschrank40.png",
+			   "_comment":"40breit 46tief",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-333,
+               "zo":-32,
+               "scale":0.124
             }
          ],
          "points":[
@@ -431,7 +441,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":0.4,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -442,9 +452,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":0.4,
                "yc":1.0,
-               "zc":1.0
+               "zc":0.46
             }
          ]
       },
@@ -453,10 +463,11 @@
          "representations":[
             {
                "resource":"Nachtschrank50.png",
+			   "_comment":" breite 50",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-330,
+               "zo":-30,
+               "scale":0.124
             }
          ],
          "points":[
@@ -475,7 +486,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":0.50,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -486,9 +497,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":0.50,
                "yc":1.0,
-               "zc":1.0
+               "zc":0.46
             }
          ]
       },
@@ -497,10 +508,11 @@
          "representations":[
             {
                "resource":"Nachtschrank60.png",
+			    "_comment":"41860 60breit ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-289,
+               "zo":-33,
+               "scale":0.1242
             }
          ],
          "points":[
@@ -519,7 +531,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":0.60,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -530,9 +542,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":0.60,
                "yc":1.0,
-               "zc":1.0
+               "zc":0.46
             }
          ]
       },
@@ -541,10 +553,11 @@
          "representations":[
             {
                "resource":"Nachtschrank80.png",
+			   "_comment":"80breit ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-246,
+               "zo":-29,
+               "scale":0.1246
             }
          ],
          "points":[
@@ -563,7 +576,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":0.80,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -574,9 +587,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":0.80,
                "yc":1.0,
-               "zc":1.0
+               "zc":0.46
             }
          ]
       },
@@ -585,6 +598,7 @@
          "representations":[
             {
                "resource":"NackenpolsterFuerEinzelbett_Holzrueckenlehne1.png",
+			    "_comment":" ???? TODO",
                "mode":"2D_TOP",
                "xo":0.0,
                "zo":0.0,
@@ -629,10 +643,11 @@
          "representations":[
             {
                "resource":"NackenpolsterFuerDoppelbett_Holzrueckenlehne1.png",
-               "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+                "_comment":"durchgehend 46095 175breit 6tief",
+			   "mode":"2D_TOP",
+               "xo":-322,
+               "zo":-169,
+               "scale":0.3514
             }
          ],
          "points":[
@@ -651,7 +666,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":1.75,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -662,9 +677,9 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
+               "xc":1.75,
                "yc":1.0,
-               "zc":1.0
+               "zc":0.1
             }
          ]
       }
