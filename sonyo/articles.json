@@ -21,6 +21,17 @@
             }
          ],
          "points":[
+			{
+               "type":"CHILD",
+               "xc":0.94,
+               "yc":0.5,
+               "zc":0.0,
+               "key":"MiddleDoubleChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"MiddleDoubleParent"
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -50,6 +61,34 @@
                "xc":1.88,
                "yc":1.0,
                "zc":2.07
+            },
+            {
+               "key":"SNLB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.0
+            },
+            {
+               "key":"SNRB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":1.88,
+               "zc":0.0
+            },
+            {
+               "key":"SNLF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":2.07
+            },
+            {
+               "key":"SNRF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":1.88,
+               "zc":2.07
             }
          ]
       },
@@ -66,6 +105,17 @@
 			}
          ],
          "points":[
+			{
+               "type":"CHILD",
+               "xc":0.94,
+               "yc":0.5,
+               "zc":0.0,
+               "key":"MiddleDoubleChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"MiddleDoubleParent"
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -94,6 +144,34 @@
                "pkey":null,
                "xc":1.88,
                "yc":1.0,
+               "zc":2.07
+            },
+            {
+               "key":"SNLB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.0
+            },
+            {
+               "key":"SNRB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":1.88,
+               "zc":0.0
+            },
+            {
+               "key":"SNLF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":2.07
+            },
+            {
+               "key":"SNRF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":1.88,
                "zc":2.07
             }
          ]
@@ -139,6 +217,34 @@
                "pkey":null,
                "xc":1.08,
                "yc":1.0,
+               "zc":2.07
+            },
+            {
+               "key":"SNLB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.0
+            },
+            {
+               "key":"SNRB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":1.08,
+               "zc":0.0
+            },
+            {
+               "key":"SNLF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":2.07
+            },
+            {
+               "key":"SNRF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":1.08,
                "zc":2.07
             }
          ]
@@ -201,6 +307,28 @@
             }
          ],
          "points":[
+			{
+               "type":"PARENT",
+               "key":"MiddleDoubleParent",
+               "pkey":"MiddleDoubleChild",
+               "xc":92.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
+			{
+               "type":"CHILD",
+               "key":"MiddleDoubleRestChild",
+               "pkey":"MiddleDoubleRestParent",
+               "xc":92.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -230,6 +358,34 @@
                "xc":1.85,
                "yc":1.0,
                "zc":0.1
+            },
+            {
+               "key":"SNLB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.0
+            },
+            {
+               "key":"SNRB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":1.08,
+               "zc":0.0
+            },
+            {
+               "key":"SNLF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":2.07
+            },
+            {
+               "key":"SNRF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":1.08,
+               "zc":2.07
             }
          ]
       },
@@ -246,6 +402,28 @@
             }
          ],
          "points":[
+			{
+               "type":"PARENT",
+               "key":"MiddleDoubleParent",
+               "pkey":"MiddleDoubleChild",
+               "xc":90,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
+			{
+               "type":"CHILD",
+               "key":"MiddleDoubleRestChild",
+               "pkey":"MiddleDoubleRestParent",
+               "xc":92.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -291,6 +469,28 @@
             }
          ],
          "points":[
+			{
+               "type":"PARENT",
+               "key":"MiddleDoubleParent",
+               "pkey":"MiddleDoubleChild",
+               "xc":92.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
+			{
+               "type":"CHILD",
+               "key":"MiddleDoubleRestChild",
+               "pkey":"MiddleDoubleRestParent",
+               "xc":92.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -336,6 +536,28 @@
             }
          ],
          "points":[
+			{
+               "type":"PARENT",
+               "key":"MiddleDoubleParent",
+               "pkey":"MiddleDoubleChild",
+               "xc":92.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
+			{
+               "type":"CHILD",
+               "key":"MiddleDoubleRestChild",
+               "pkey":"MiddleDoubleRestParent",
+               "xc":92.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -381,6 +603,28 @@
             }
          ],
          "points":[
+			{
+               "type":"PARENT",
+               "key":"MiddleDoubleParent",
+               "pkey":"MiddleDoubleChild",
+               "xc":92.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
+			{
+               "type":"CHILD",
+               "key":"MiddleDoubleRestChild",
+               "pkey":"MiddleDoubleRestParent",
+               "xc":92.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -455,8 +699,36 @@
                "xc":0.4,
                "yc":1.0,
                "zc":0.46
+            },
+            {
+               "key":"SNLB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.0
+            },
+            {
+               "key":"SNRB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.4,
+               "zc":0.0
+            },
+            {
+               "key":"SNLF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.46
+            },
+            {
+               "key":"SNRF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.4,
+               "zc":0.46
             }
-         ]
+		]
       },
       {
          "id":"n21?",
@@ -499,6 +771,34 @@
                "pkey":null,
                "xc":0.50,
                "yc":1.0,
+               "zc":0.46
+            },
+            {
+               "key":"SNLB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.0
+            },
+            {
+               "key":"SNRB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.5,
+               "zc":0.0
+            },
+            {
+               "key":"SNLF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.46
+            },
+            {
+               "key":"SNRF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.5,
                "zc":0.46
             }
          ]
@@ -545,6 +845,34 @@
                "xc":0.60,
                "yc":1.0,
                "zc":0.46
+            },
+            {
+               "key":"SNLB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.0
+            },
+            {
+               "key":"SNRB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.6,
+               "zc":0.0
+            },
+            {
+               "key":"SNLF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.46
+            },
+            {
+               "key":"SNRF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.6,
+               "zc":0.46
             }
          ]
       },
@@ -589,6 +917,34 @@
                "pkey":null,
                "xc":0.80,
                "yc":1.0,
+               "zc":0.46
+            },
+			{
+               "key":"SNLB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.0
+            },
+            {
+               "key":"SNRB",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.8,
+               "zc":0.0
+            },
+            {
+               "key":"SNLF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.0,
+               "zc":0.46
+            },
+            {
+               "key":"SNRF",
+               "type":"SNAP",
+               "pkey":"SN*",
+               "xc":0.8,
                "zc":0.46
             }
          ]
@@ -651,6 +1007,17 @@
             }
          ],
          "points":[
+			{
+               "type":"PARENT",
+               "key":"MiddleDoubleRestParent",
+               "pkey":"MiddleDoubleRestChild",
+               "xc":87.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
