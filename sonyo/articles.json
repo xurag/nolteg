@@ -43,6 +43,28 @@
                "zd":1,
                "pkey":"MiddleDoubleGrandParent"
             },
+			{
+               "type":"CHILD",
+               "xc":0.48,
+               "yc":0.5,
+               "zc":0.0,
+               "key":"MiddleSingleGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"MiddleSingleGrandParent"
+            },
+			{
+               "type":"CHILD",
+               "xc":1.42,
+               "yc":0.5,
+               "zc":0.0,
+               "key":"MiddleSingleGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"MiddleSingleGrandParent"
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -137,6 +159,28 @@
                "yd":0,
                "zd":1,
                "pkey":"MiddleDoubleGrandParent"
+            },
+			{
+               "type":"CHILD",
+               "xc":0.48,
+               "yc":0.5,
+               "zc":0.0,
+               "key":"MiddleSingleGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"MiddleSingleGrandParent"
+            },
+			{
+               "type":"CHILD",
+               "xc":1.42,
+               "yc":0.5,
+               "zc":0.0,
+               "key":"MiddleSingleGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"MiddleSingleGrandParent"
             },
             {
                "key":"PLL",
@@ -965,11 +1009,11 @@
          "representations":[
             {
                "resource":"NackenpolsterFuerEinzelbett_Holzrueckenlehne1.png",
-			    "_comment":" soll 46087 schmal sein  ???? TODO",
+			    "_comment":" soll 46087 schmal sein (zahlen png falsch benannt) ",
                "mode":"2D_TOP",
-               "xo":0.0,
-               "zo":0.0,
-               "scale":1.0
+               "xo":-419,
+               "zo":-190,
+               "scale":0.3524
             }
          ],
          "points":[
@@ -988,7 +1032,7 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":0.1,
+               "xc":0.8,
                "yc":0.0,
                "zc":0.0,
                "xd":0.0,
@@ -999,9 +1043,20 @@
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.0,
-               "yc":1.0,
-               "zc":1.0
+               "xc":0.8,
+               "yc":0.1,
+               "zc":0.4
+            },
+			{
+               "type":"PARENT",
+               "key":"MiddleSingleGrandParent",
+               "pkey":"MiddleSingleGrandChild",
+               "xc":0.4,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
             }
          ]
       },
@@ -1010,7 +1065,63 @@
          "representations":[
             {
                "resource":"NackenpolsterFuerDoppelbett_Holzrueckenlehne1.png",
-                "_comment":"durchgehend 46095 175breit 6tief",
+                "_comment":"lfd 15 (picture used is not called 46095) durchgehend 46095 175breit 6tief",
+			   "mode":"2D_TOP",
+               "xo":-322,
+               "zo":-169,
+               "scale":0.3514
+            }
+         ],
+         "points":[
+			{
+               "type":"PARENT",
+               "key":"MiddleDoubleGrandParent",
+               "pkey":"MiddleDoubleGrandChild",
+               "xc":87.5,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
+            {
+               "key":"PLL",
+               "type":"INITIAL",
+               "pkey":"PLR",
+               "xc":0.0,
+               "yc":0.0,
+               "zc":0.0,
+               "xd":0.0,
+               "yd":0.0,
+               "zd":1.0
+            },
+            {
+               "key":"PLR",
+               "type":"INITIAL",
+               "pkey":"PLL",
+               "xc":1.75,
+               "yc":0.0,
+               "zc":0.0,
+               "xd":0.0,
+               "yd":0.0,
+               "zd":1.0
+            },
+            {
+               "key":"MAXIMUM",
+               "type":"ARTICLE",
+               "pkey":null,
+               "xc":1.75,
+               "yc":1.0,
+               "zc":0.1
+            }
+         ]
+      },
+	  {
+         "id":"n31?",
+         "representations":[
+            {
+               "resource":"",
+                "_comment":"lfd 16 wird halogen links",
 			   "mode":"2D_TOP",
                "xo":-322,
                "zo":-169,
