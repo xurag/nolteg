@@ -65,6 +65,28 @@
                "zd":1,
                "pkey":"MiddleSingleGrandParent"
             },
+			{
+               "type":"CHILD",
+               "xc":0.0,
+               "yc":0.5,
+               "zc":0.1,
+               "key":"LeftGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"LeftGrandParent"
+            },
+			{
+               "type":"CHILD",
+               "xc":1.78,
+               "yc":0.5,
+               "zc":0.1,
+               "key":"RightGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"RightGrandParent"
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -182,6 +204,28 @@
                "zd":1,
                "pkey":"MiddleSingleGrandParent"
             },
+			{
+               "type":"CHILD",
+               "xc":0.0,
+               "yc":0.5,
+               "zc":0.1,
+               "key":"LeftGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"LeftGrandParent"
+            },
+			{
+               "type":"CHILD",
+               "xc":1.78,
+               "yc":0.5,
+               "zc":0.1,
+               "key":"RightGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"RightGrandParent"
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -277,6 +321,28 @@
                "zd":1,
                "pkey":"MiddleSingleGrandParent"
             },
+			{
+               "type":"CHILD",
+               "xc":0.0,
+               "yc":0.5,
+               "zc":0.1,
+               "key":"LeftGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"LeftGrandParent"
+            },
+			{
+               "type":"CHILD",
+               "xc":0.98,
+               "yc":0.5,
+               "zc":0.1,
+               "key":"RightGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"RightGrandParent"
+            },
             {
                "key":"PLL",
                "type":"INITIAL",
@@ -371,6 +437,28 @@
                "yd":0,
                "zd":1,
                "pkey":"MiddleSingleGrandParent"
+            },
+			{
+               "type":"CHILD",
+               "xc":0.0,
+               "yc":0.5,
+               "zc":0.1,
+               "key":"LeftGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"LeftGrandParent"
+            },
+			{
+               "type":"CHILD",
+               "xc":0.98,
+               "yc":0.5,
+               "zc":0.1,
+               "key":"RightGrandChild",
+               "xd":0,
+               "yd":0,
+               "zd":1,
+               "pkey":"RightGrandParent"
             },
             {
                "key":"PLL",
@@ -1122,11 +1210,11 @@
             {
 			
                "resource":"lefthalogen97151.png",
-                "_comment":"lfd 16 wird halogen links 97151",
+                "_comment":"lfd 16 wird halogen links 97151, 000 ist steckwinkel",
 			   "mode":"2D_TOP",
-               "xo":-322,
-               "zo":-169,
-               "scale":0.3514
+               "xo":-203,
+               "zo":-56,
+               "scale":0.25
             }
          ],
          "points":[
@@ -1135,7 +1223,7 @@
                "key":"LeftGrandParent",
                "pkey":"LeftGrandChild",
                "xc":0,
-               "yc":0,
+               "yc":-0.5,
                "zc":0,
                "xd":0,
                "yd":0,
@@ -1145,8 +1233,8 @@
                "key":"PLL",
                "type":"INITIAL",
                "pkey":"PLR",
-               "xc":0.0,
-               "yc":0.0,
+               "xc":-0.32,
+               "yc":-0.5,
                "zc":0.0,
                "xd":0.0,
                "yd":0.0,
@@ -1156,20 +1244,28 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":1.75,
-               "yc":0.0,
+               "xc":0.1,
+               "yc":-0.5,
                "zc":0.0,
                "xd":0.0,
                "yd":0.0,
                "zd":1.0
             },
+			{
+               "key":"MINIMUM",
+               "type":"ARTICLE",
+               "pkey":null,
+               "xc":-0.32,
+               "yc":1.0,
+               "zc":-0.1
+            },
             {
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.75,
+               "xc":0.1,
                "yc":1.0,
-               "zc":0.1
+               "zc":0.60
             }
          ]
       },
@@ -1181,9 +1277,9 @@
                "resource":"righthalogen97151.png",
                 "_comment":"lfd 17 wird halogen rechts 97151",
 			   "mode":"2D_TOP",
-               "xo":-322,
-               "zo":-169,
-               "scale":0.3514
+               "xo":-100,
+               "zo":-49,
+               "scale":0.25
             }
          ],
          "points":[
@@ -1192,7 +1288,7 @@
                "key":"LeftGrandParent",
                "pkey":"LeftGrandChild",
                "xc":0,
-               "yc":0,
+               "yc":-0.5,
                "zc":0,
                "xd":0,
                "yd":0,
@@ -1202,8 +1298,8 @@
                "key":"PLL",
                "type":"INITIAL",
                "pkey":"PLR",
-               "xc":0.0,
-               "yc":0.0,
+               "xc":-0.1,
+               "yc":-0.5,
                "zc":0.0,
                "xd":0.0,
                "yd":0.0,
@@ -1213,20 +1309,28 @@
                "key":"PLR",
                "type":"INITIAL",
                "pkey":"PLL",
-               "xc":1.75,
-               "yc":0.0,
+               "xc":0.32,
+               "yc":-0.5,
                "zc":0.0,
                "xd":0.0,
                "yd":0.0,
                "zd":1.0
             },
+			 {
+               "key":"MINIMUM",
+               "type":"ARTICLE",
+               "pkey":null,
+               "xc":-0.10,
+               "yc":-0.10,
+               "zc":0.1
+            },
             {
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
-               "xc":1.75,
+               "xc":0.32,
                "yc":1.0,
-               "zc":0.1
+               "zc":0.60
             }
          ]
       }
