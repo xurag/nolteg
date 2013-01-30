@@ -1120,8 +1120,9 @@
          "id":"n31?",
          "representations":[
             {
-               "resource":"",
-                "_comment":"lfd 16 wird halogen links",
+			
+               "resource":"lefthalogen97151.png",
+                "_comment":"lfd 16 wird halogen links 97151",
 			   "mode":"2D_TOP",
                "xo":-322,
                "zo":-169,
@@ -1131,9 +1132,66 @@
          "points":[
 			{
                "type":"PARENT",
-               "key":"MiddleDoubleGrandParent",
-               "pkey":"MiddleDoubleGrandChild",
-               "xc":87.5,
+               "key":"LeftGrandParent",
+               "pkey":"LeftGrandChild",
+               "xc":0,
+               "yc":0,
+               "zc":0,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
+            {
+               "key":"PLL",
+               "type":"INITIAL",
+               "pkey":"PLR",
+               "xc":0.0,
+               "yc":0.0,
+               "zc":0.0,
+               "xd":0.0,
+               "yd":0.0,
+               "zd":1.0
+            },
+            {
+               "key":"PLR",
+               "type":"INITIAL",
+               "pkey":"PLL",
+               "xc":1.75,
+               "yc":0.0,
+               "zc":0.0,
+               "xd":0.0,
+               "yd":0.0,
+               "zd":1.0
+            },
+            {
+               "key":"MAXIMUM",
+               "type":"ARTICLE",
+               "pkey":null,
+               "xc":1.75,
+               "yc":1.0,
+               "zc":0.1
+            }
+         ]
+      },
+	  {
+         "id":"n31?",
+         "representations":[
+            {
+			
+               "resource":"righthalogen97151.png",
+                "_comment":"lfd 17 wird halogen rechts 97151",
+			   "mode":"2D_TOP",
+               "xo":-322,
+               "zo":-169,
+               "scale":0.3514
+            }
+         ],
+         "points":[
+			{
+               "type":"PARENT",
+               "key":"LeftGrandParent",
+               "pkey":"LeftGrandChild",
+               "xc":0,
                "yc":0,
                "zc":0,
                "xd":0,
