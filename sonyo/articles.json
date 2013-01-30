@@ -10,7 +10,7 @@
    "articles":[
       {
          "id":"55880",
-		 "_comment":"doppelbett1 55880 188breit 207tief ",
+         "_comment":"doppelbett1 55880 188breit 207tief ",
          "representations":[
             {
                "resource":"Doppelbett1.png",
@@ -21,7 +21,7 @@
             }
          ],
          "points":[
-			{
+            {
                "type":"CHILD",
                "xc":0.94,
                "yc":0.5,
@@ -32,7 +32,7 @@
                "zd":1,
                "pkey":"MiddleDoubleParent*"
             },
-			{
+            {
                "type":"CHILD",
                "xc":0.94,
                "yc":0.5,
@@ -43,7 +43,7 @@
                "zd":1,
                "pkey":"MiddleDoubleGrandParent"
             },
-			{
+            {
                "type":"CHILD",
                "xc":0.48,
                "yc":0.5,
@@ -54,7 +54,7 @@
                "zd":1,
                "pkey":"MiddleSingleGrandParent*"
             },
-			{
+            {
                "type":"CHILD",
                "xc":1.42,
                "yc":0.5,
@@ -65,7 +65,7 @@
                "zd":1,
                "pkey":"MiddleSingleGrandParent*"
             },
-			{
+            {
                "type":"CHILD",
                "xc":0.015,
                "yc":0.5,
@@ -76,7 +76,7 @@
                "zd":1,
                "pkey":"LeftGrandParent"
             },
-			{
+            {
                "type":"CHILD",
                "xc":1.865,
                "yc":0.5,
@@ -152,15 +152,15 @@
          "representations":[
             {
                "resource":"Doppelbett2.png",
-			   "_comment":"doppelbett2 55980 188breit 207tief ",
+               "_comment":"doppelbett2 55980 188breit 207tief ",
                "mode":"2D_TOP",
                "xo":-356,
                "zo":-36,
                "scale":0.5386
-			}
+            }
          ],
          "points":[
-			{
+            {
                "type":"CHILD",
                "xc":0.94,
                "yc":0.5,
@@ -171,7 +171,7 @@
                "zd":1,
                "pkey":"MiddleDoubleParent*"
             },
-			{
+            {
                "type":"CHILD",
                "xc":0.94,
                "yc":0.5,
@@ -182,7 +182,7 @@
                "zd":1,
                "pkey":"MiddleDoubleGrandParent*"
             },
-			{
+            {
                "type":"CHILD",
                "xc":0.48,
                "yc":0.5,
@@ -193,7 +193,7 @@
                "zd":1,
                "pkey":"MiddleSingleGrandParent*"
             },
-			{
+            {
                "type":"CHILD",
                "xc":1.42,
                "yc":0.5,
@@ -204,7 +204,7 @@
                "zd":1,
                "pkey":"MiddleSingleGrandParent*"
             },
-			{
+            {
                "type":"CHILD",
                "xc":0.015,
                "yc":0.5,
@@ -215,7 +215,7 @@
                "zd":1,
                "pkey":"LeftGrandParent"
             },
-			{
+            {
                "type":"CHILD",
                "xc":1.865,
                "yc":0.5,
@@ -291,7 +291,7 @@
          "representations":[
             {
                "resource":"Einzelbett1.png",
-			   "_comment":"einzelbett1 55810 108breit 207tief ",
+               "_comment":"einzelbett1 55810 108breit 207tief ",
                "mode":"2D_TOP",
                "xo":-441,
                "zo":-30,
@@ -299,7 +299,7 @@
             }
          ],
          "points":[
-			{
+            {
                "type":"CHILD",
                "xc":0.54,
                "yc":0.5,
@@ -310,7 +310,7 @@
                "zd":1,
                "pkey":"MiddleSingleParent"
             },
-			{
+            {
                "type":"CHILD",
                "xc":0.54,
                "yc":0.5,
@@ -321,7 +321,7 @@
                "zd":1,
                "pkey":"MiddleSingleGrandParent"
             },
-			{
+            {
                "type":"CHILD",
                "xc":0.015,
                "yc":0.5,
@@ -332,7 +332,7 @@
                "zd":1,
                "pkey":"LeftGrandParent"
             },
-			{
+            {
                "type":"CHILD",
                "xc":1.065,
                "yc":0.5,
@@ -408,7 +408,7 @@
          "representations":[
             {
                "resource":"Einzelbett2.png",
-			   "_comment":"einzelbett2 55910 108breit 207tief ",
+               "_comment":"einzelbett2 55910 108breit 207tief ",
                "mode":"2D_TOP",
                "xo":-402,
                "zo":-36,
@@ -416,7 +416,7 @@
             }
          ],
          "points":[
-			{
+            {
                "type":"CHILD",
                "xc":0.54,
                "yc":0.5,
@@ -427,7 +427,7 @@
                "zd":1,
                "pkey":"MiddleSingleParent"
             },
-			{
+            {
                "type":"CHILD",
                "xc":0.54,
                "yc":0.5,
@@ -438,7 +438,7 @@
                "zd":1,
                "pkey":"MiddleSingleGrandParent"
             },
-			{
+            {
                "type":"CHILD",
                "xc":0.015,
                "yc":0.5,
@@ -449,7 +449,7 @@
                "zd":1,
                "pkey":"LeftGrandParent"
             },
-			{
+            {
                "type":"CHILD",
                "xc":1.065,
                "yc":0.5,
@@ -497,7 +497,7 @@
          "representations":[
             {
                "resource":"Holzrueckenlehne1.png",
-			   "_comment":"holzrueckenlehne1 46568  185breit 25tiefe platte korrekt ",
+               "_comment":"holzrueckenlehne1 46568  185breit 25tiefe platte korrekt ",
                "mode":"2D_TOP",
                "xo":-266,
                "zo":-176,
@@ -505,7 +505,7 @@
             }
          ],
          "points":[
-			{
+            {
                "type":"PARENT",
                "key":"MiddleDoubleParent",
                "pkey":"MiddleDoubleChild",
@@ -516,7 +516,7 @@
                "yd":0,
                "zd":1
             },
-			{
+            {
                "key":"PLL",
                "type":"INITIAL",
                "pkey":"PLR",
@@ -581,7 +581,7 @@
          "representations":[
             {
                "resource":"Holzrueckenlehne2.png",
-			   "_comment":"korrigiert auf 46399 ",
+               "_comment":"korrigiert auf 46399 ",
                "mode":"2D_TOP",
                "xo":-260,
                "zo":-179,
@@ -589,7 +589,7 @@
             }
          ],
          "points":[
-			{
+            {
                "type":"PARENT",
                "key":"MiddleSingleParent",
                "pkey":"MiddleSingleChild",
@@ -600,7 +600,7 @@
                "yd":0,
                "zd":1
             },
-			{
+            {
                "key":"PLL",
                "type":"INITIAL",
                "pkey":"PLR",
@@ -637,7 +637,7 @@
          "representations":[
             {
                "resource":"Holzrueckenlehne3.png",
-			    "_comment":"korrigiert auf 46539 schmal   ",
+               "_comment":"korrigiert auf 46539 schmal   ",
                "mode":"2D_TOP",
                "xo":-425,
                "zo":-191,
@@ -645,7 +645,7 @@
             }
          ],
          "points":[
-			{
+            {
                "type":"PARENT",
                "key":"MiddleSingleParent",
                "pkey":"MiddleSingleChild",
@@ -656,7 +656,7 @@
                "yd":0,
                "zd":1
             },
-			{
+            {
                "key":"PLL",
                "type":"INITIAL",
                "pkey":"PLR",
@@ -693,7 +693,7 @@
          "representations":[
             {
                "resource":"Polsterrueckenlehne1.png",
-			   "_comment":"korrigiert 46559 schmal sein ///46558 185breit  ",
+               "_comment":"korrigiert 46559 schmal sein ///46558 185breit  ",
                "mode":"2D_TOP",
                "xo":-220,
                "zo":-201,
@@ -701,7 +701,7 @@
             }
          ],
          "points":[
-			{
+            {
                "type":"PARENT",
                "key":"MiddleSingleParent",
                "pkey":"MiddleSingleChild",
@@ -712,7 +712,7 @@
                "yd":0,
                "zd":1
             },
-			{
+            {
                "key":"PLL",
                "type":"INITIAL",
                "pkey":"PLR",
@@ -749,7 +749,7 @@
          "representations":[
             {
                "resource":"Polsterrueckenlehne2.png",
-			    "_comment":"korrigiert auf 46389 schmal sein ///46388 185breit  ",
+               "_comment":"korrigiert auf 46389 schmal sein ///46388 185breit  ",
                "mode":"2D_TOP",
                "xo":-284,
                "zo":-140,
@@ -757,7 +757,7 @@
             }
          ],
          "points":[
-			{
+            {
                "type":"PARENT",
                "key":"MiddleSingleParent",
                "pkey":"MiddleSingleChild",
@@ -805,7 +805,7 @@
          "representations":[
             {
                "resource":"Nachtschrank40.png",
-			   "_comment":"40breit 46tief",
+               "_comment":"40breit 46tief",
                "mode":"2D_TOP",
                "xo":-333,
                "zo":-32,
@@ -871,14 +871,14 @@
                "xc":0.4,
                "zc":0.46
             }
-		]
+         ]
       },
       {
          "id":"n21?",
          "representations":[
             {
                "resource":"Nachtschrank50.png",
-			   "_comment":" breite 50",
+               "_comment":" breite 50",
                "mode":"2D_TOP",
                "xo":-330,
                "zo":-30,
@@ -951,7 +951,7 @@
          "representations":[
             {
                "resource":"Nachtschrank60.png",
-			    "_comment":"41860 60breit ",
+               "_comment":"41860 60breit ",
                "mode":"2D_TOP",
                "xo":-289,
                "zo":-33,
@@ -1024,7 +1024,7 @@
          "representations":[
             {
                "resource":"Nachtschrank80.png",
-			   "_comment":"80breit ",
+               "_comment":"80breit ",
                "mode":"2D_TOP",
                "xo":-246,
                "zo":-29,
@@ -1062,7 +1062,7 @@
                "yc":1.0,
                "zc":0.46
             },
-			{
+            {
                "key":"SNLB",
                "type":"SNAP",
                "pkey":"SN*",
@@ -1097,7 +1097,7 @@
          "representations":[
             {
                "resource":"NackenpolsterFuerEinzelbett_Holzrueckenlehne1.png",
-			    "_comment":" soll 46087 schmal sein (zahlen png falsch benannt) ",
+               "_comment":" soll 46087 schmal sein (zahlen png falsch benannt) ",
                "mode":"2D_TOP",
                "xo":-419,
                "zo":-190,
@@ -1135,7 +1135,7 @@
                "yc":0.1,
                "zc":0.4
             },
-			{
+            {
                "type":"PARENT",
                "key":"MiddleSingleGrandParent",
                "pkey":"MiddleSingleGrandChild",
@@ -1153,15 +1153,15 @@
          "representations":[
             {
                "resource":"NackenpolsterFuerDoppelbett_Holzrueckenlehne1.png",
-                "_comment":"lfd 15 (picture used is not called 46095) durchgehend 46095 175breit 6tief",
-			   "mode":"2D_TOP",
+               "_comment":"lfd 15 (picture used is not called 46095) durchgehend 46095 175breit 6tief",
+               "mode":"2D_TOP",
                "xo":-322,
                "zo":-169,
                "scale":0.3514
             }
          ],
          "points":[
-			{
+            {
                "type":"PARENT",
                "key":"MiddleDoubleGrandParent",
                "pkey":"MiddleDoubleGrandChild",
@@ -1204,21 +1204,20 @@
             }
          ]
       },
-	  {
+      {
          "id":"n31?",
          "representations":[
             {
-			
                "resource":"lefthalogen97151.png",
-                "_comment":"lfd 16 wird halogen links 97151, 000 ist steckwinkel",
-			   "mode":"2D_TOP",
+               "_comment":"lfd 16 wird halogen links 97151, 000 ist steckwinkel",
+               "mode":"2D_TOP",
                "xo":-203,
                "zo":-56,
                "scale":0.25
             }
          ],
          "points":[
-			{
+            {
                "type":"PARENT",
                "key":"LeftGrandParent",
                "pkey":"LeftGrandChild",
@@ -1251,7 +1250,7 @@
                "yd":0.0,
                "zd":1.0
             },
-			{
+            {
                "key":"MINIMUM",
                "type":"ARTICLE",
                "pkey":null,
@@ -1269,21 +1268,20 @@
             }
          ]
       },
-	  {
+      {
          "id":"n31?",
          "representations":[
             {
-			
                "resource":"righthalogen97151.png",
-                "_comment":"lfd 17 wird halogen rechts 97151",
-			   "mode":"2D_TOP",
+               "_comment":"lfd 17 wird halogen rechts 97151",
+               "mode":"2D_TOP",
                "xo":-100,
                "zo":-49,
                "scale":0.25
             }
          ],
          "points":[
-			{
+            {
                "type":"PARENT",
                "key":"LeftGrandParent",
                "pkey":"LeftGrandChild",
@@ -1316,7 +1314,7 @@
                "yd":0.0,
                "zd":1.0
             },
-			 {
+            {
                "key":"MINIMUM",
                "type":"ARTICLE",
                "pkey":null,
