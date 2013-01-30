@@ -1,0 +1,47 @@
+{
+   "scope":"d76362a4-35a3-40ad-917f-24e1e149835b",
+   "mappings":[
+      {
+	     "id":"SONYO",
+         "articles":{          "e6e988da-b250-4bf6-95c8-be72e990b457":"4653",
+                               "b7c890a3-1096-41a6-a119-b78b68cddb77":"4655",
+                               "f2a22bd1-d7bd-4e10-9fbc-b7d37c5a8c27":"5591",
+                               "cb7b7741-ee02-4071-820f-a68a4aafe9a1":"4608",
+                               "9c751994-c1ea-4d90-a56c-54d26ba42864":"55880",
+                               "00a38596-b0bb-43db-ac25-2f37e57ec0a9":"4608",
+                               "98018555-1e42-4a15-8f3c-aef263b3fa45":"4638",
+                               "84d64eda-f38e-4dd0-939d-15109fdd239d":"4656",
+                               "eda69990-b80f-4ce0-a26c-bb851c7eebb3":"5598",
+                               "31a93a59-4358-4ac8-9a1f-2e4ffbcb85a8":"5581",
+                               "e1ac6eb4-361d-4381-b79f-2e50e479e99f":"4639",
+                               "4b776cb7-4f9f-471d-b5cc-a59b2af0413a":"4609"
+
+         },
+	  
+	  
+	  
+	
+         
+         "logicParameters":{
+            "IGLS_Series":"Hamilton",
+            "IGLF_Add842RelParentPtY":0.0,
+            "IGLF_Add842RelParentPtZ":0.0,
+            "IGLF_AddArmRestChildPtX":0.0,
+            "IGLF_AddArmRestPLRPtX":-0.02
+         },
+         "resourceParameters":{
+            "ATTcatalogue":2,
+            "ATTfabricColor":"@cover_%@_%@,200=1,300=1",
+            "ATTseatDepth":0,
+            "ATTfunction":"@nofunction",
+            "ATTfeetHeight01":"@feet01"
+         },
+         "visualParameters":[
+            "X141",
+            "X143",
+            "200",
+            "300"
+         ]
+      }
+   ]
+}
