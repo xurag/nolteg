@@ -30,7 +30,7 @@
                "xd":0,
                "yd":0,
                "zd":1,
-               "pkey":"MiddleDoubleParent"
+               "pkey":"MiddleDoubleParent*"
             },
 			{
                "type":"CHILD",
@@ -48,28 +48,28 @@
                "xc":0.48,
                "yc":0.5,
                "zc":0.0,
-               "key":"MiddleSingleGrandChild",
+               "key":"MiddleSingleGrandChild1",
                "xd":0,
                "yd":0,
                "zd":1,
-               "pkey":"MiddleSingleGrandParent"
+               "pkey":"MiddleSingleGrandParent*"
             },
 			{
                "type":"CHILD",
                "xc":1.42,
                "yc":0.5,
                "zc":0.0,
-               "key":"MiddleSingleGrandChild",
+               "key":"MiddleSingleGrandChild2",
                "xd":0,
                "yd":0,
                "zd":1,
-               "pkey":"MiddleSingleGrandParent"
+               "pkey":"MiddleSingleGrandParent*"
             },
 			{
                "type":"CHILD",
-               "xc":0.0,
+               "xc":0.015,
                "yc":0.5,
-               "zc":0.1,
+               "zc":0.0,
                "key":"LeftGrandChild",
                "xd":0,
                "yd":0,
@@ -78,9 +78,9 @@
             },
 			{
                "type":"CHILD",
-               "xc":1.78,
+               "xc":1.865,
                "yc":0.5,
-               "zc":0.1,
+               "zc":0.0,
                "key":"RightGrandChild",
                "xd":0,
                "yd":0,
@@ -169,7 +169,7 @@
                "xd":0,
                "yd":0,
                "zd":1,
-               "pkey":"MiddleDoubleParent"
+               "pkey":"MiddleDoubleParent*"
             },
 			{
                "type":"CHILD",
@@ -180,35 +180,35 @@
                "xd":0,
                "yd":0,
                "zd":1,
-               "pkey":"MiddleDoubleGrandParent"
+               "pkey":"MiddleDoubleGrandParent*"
             },
 			{
                "type":"CHILD",
                "xc":0.48,
                "yc":0.5,
                "zc":0.0,
-               "key":"MiddleSingleGrandChild",
+               "key":"MiddleSingleGrandChild1",
                "xd":0,
                "yd":0,
                "zd":1,
-               "pkey":"MiddleSingleGrandParent"
+               "pkey":"MiddleSingleGrandParent*"
             },
 			{
                "type":"CHILD",
                "xc":1.42,
                "yc":0.5,
                "zc":0.0,
-               "key":"MiddleSingleGrandChild",
+               "key":"MiddleSingleGrandChild2",
                "xd":0,
                "yd":0,
                "zd":1,
-               "pkey":"MiddleSingleGrandParent"
+               "pkey":"MiddleSingleGrandParent*"
             },
 			{
                "type":"CHILD",
-               "xc":0.0,
+               "xc":0.015,
                "yc":0.5,
-               "zc":0.1,
+               "zc":0.0,
                "key":"LeftGrandChild",
                "xd":0,
                "yd":0,
@@ -217,9 +217,9 @@
             },
 			{
                "type":"CHILD",
-               "xc":1.78,
+               "xc":1.865,
                "yc":0.5,
-               "zc":0.1,
+               "zc":0.0,
                "key":"RightGrandChild",
                "xd":0,
                "yd":0,
@@ -323,9 +323,9 @@
             },
 			{
                "type":"CHILD",
-               "xc":0.0,
+               "xc":0.015,
                "yc":0.5,
-               "zc":0.1,
+               "zc":0.0,
                "key":"LeftGrandChild",
                "xd":0,
                "yd":0,
@@ -334,9 +334,9 @@
             },
 			{
                "type":"CHILD",
-               "xc":0.98,
+               "xc":1.065,
                "yc":0.5,
-               "zc":0.1,
+               "zc":0.0,
                "key":"RightGrandChild",
                "xd":0,
                "yd":0,
@@ -440,9 +440,9 @@
             },
 			{
                "type":"CHILD",
-               "xc":0.0,
+               "xc":0.015,
                "yc":0.5,
-               "zc":0.1,
+               "zc":0.0,
                "key":"LeftGrandChild",
                "xd":0,
                "yd":0,
@@ -451,9 +451,9 @@
             },
 			{
                "type":"CHILD",
-               "xc":0.98,
+               "xc":1.065,
                "yc":0.5,
-               "zc":0.1,
+               "zc":0.0,
                "key":"RightGrandChild",
                "xd":0,
                "yd":0,
@@ -511,7 +511,7 @@
                "pkey":"MiddleDoubleChild",
                "xc":0.925,
                "yc":0,
-               "zc":0,
+               "zc":0.03,
                "xd":0,
                "yd":0,
                "zd":1
@@ -581,7 +581,7 @@
          "representations":[
             {
                "resource":"Holzrueckenlehne2.png",
-			   "_comment":"korrigiert auf 46399 sein  ",
+			   "_comment":"korrigiert auf 46399 ",
                "mode":"2D_TOP",
                "xo":-260,
                "zo":-179,
