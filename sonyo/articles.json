@@ -148,7 +148,7 @@
          ]
       },
       {
-         "id":"n2?",
+         "id":"55980",
          "representations":[
             {
                "resource":"Doppelbett2.png",
@@ -287,7 +287,7 @@
          ]
       },
       {
-         "id":"n3?",
+         "id":"55810",
          "representations":[
             {
                "resource":"Einzelbett1.png",
@@ -404,7 +404,7 @@
          ]
       },
       {
-         "id":"n4?",
+         "id":"55910",
          "representations":[
             {
                "resource":"Einzelbett2.png",
@@ -493,7 +493,7 @@
          ]
       },
       {
-         "id":"n10?",
+         "id":"46568",
          "representations":[
             {
                "resource":"Holzrueckenlehne1.png",
@@ -577,7 +577,7 @@
          ]
       },
       {
-         "id":"n11?",
+         "id":"46399",
          "representations":[
             {
                "resource":"Holzrueckenlehne2.png",
@@ -633,7 +633,7 @@
          ]
       },
       {
-         "id":"n12?",
+         "id":"46539",
          "representations":[
             {
                "resource":"Holzrueckenlehne3.png",
@@ -689,7 +689,7 @@
          ]
       },
       {
-         "id":"n13?",
+         "id":"46559",
          "representations":[
             {
                "resource":"Polsterrueckenlehne1.png",
@@ -745,14 +745,14 @@
          ]
       },
       {
-         "id":"n14?",
+         "id":"46389",
          "representations":[
             {
                "resource":"Polsterrueckenlehne2.png",
                "_comment":"korrigiert auf 46389 schmal sein ///46388 185breit  ",
                "mode":"2D_TOP",
                "xo":-284,
-               "zo":-140,
+               "zo":-183,
                "scale":0.180
             }
          ],
@@ -801,11 +801,11 @@
          ]
       },
       {
-         "id":"n20?",
+         "id":"41840",
          "representations":[
             {
                "resource":"Nachtschrank40.png",
-               "_comment":"40breit 46tief",
+               "_comment":"41840   40breit 46tief",
                "mode":"2D_TOP",
                "xo":-333,
                "zo":-32,
@@ -874,11 +874,11 @@
          ]
       },
       {
-         "id":"n21?",
+         "id":"41850",
          "representations":[
             {
                "resource":"Nachtschrank50.png",
-               "_comment":" breite 50",
+               "_comment":"41850 breite 50",
                "mode":"2D_TOP",
                "xo":-330,
                "zo":-30,
@@ -947,7 +947,7 @@
          ]
       },
       {
-         "id":"n22?",
+         "id":"41860",
          "representations":[
             {
                "resource":"Nachtschrank60.png",
@@ -1020,11 +1020,11 @@
          ]
       },
       {
-         "id":"n23?",
+         "id":"41880",
          "representations":[
             {
                "resource":"Nachtschrank80.png",
-               "_comment":"80breit ",
+               "_comment":"41880   80breit ",
                "mode":"2D_TOP",
                "xo":-246,
                "zo":-29,
@@ -1093,7 +1093,7 @@
          ]
       },
       {
-         "id":"n30?",
+         "id":"46087",
          "representations":[
             {
                "resource":"NackenpolsterFuerEinzelbett_Holzrueckenlehne1.png",
@@ -1149,7 +1149,7 @@
          ]
       },
       {
-         "id":"n31?",
+         "id":"46095",
          "representations":[
             {
                "resource":"NackenpolsterFuerDoppelbett_Holzrueckenlehne1.png",
