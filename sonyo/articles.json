@@ -707,12 +707,20 @@
                "zd":1.0
             },
             {
+               "key":"MINIMUM",
+               "type":"ARTICLE",
+               "pkey":null,
+               "xc":0.0,
+               "yc":0.0,
+               "zc":-0.03
+            },
+            {
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
                "xc":0.95,
                "yc":1.0,
-               "zc":0.1
+               "zc":0.07
             }
          ]
       },
@@ -762,13 +770,21 @@
                "yd":0.0,
                "zd":1.0
             },
-            {
+			 {
+               "key":"MINIMUM",
+               "type":"ARTICLE",
+               "pkey":null,
+               "xc":0.0,
+               "yc":0.0,
+               "zc":-0.03
+            },
+			{
                "key":"MAXIMUM",
                "type":"ARTICLE",
                "pkey":null,
                "xc":0.95,
                "yc":1.0,
-               "zc":0.1
+               "zc":0.07
             }
          ]
       },
@@ -1161,7 +1177,7 @@
                "pkey":null,
                "xc":0.8,
                "yc":0.1,
-               "zc":0.4
+               "zc":0.17
             },
             {
                "type":"PARENT",
@@ -1227,8 +1243,8 @@
                "type":"ARTICLE",
                "pkey":null,
                "xc":1.75,
-               "yc":1.0,
-               "zc":0.1
+               "yc":0.1,
+               "zc":0.17
             }
          ]
       },
@@ -1284,7 +1300,7 @@
                "type":"ARTICLE",
                "pkey":null,
                "xc":1.68,
-               "yc":1.0,
+               "yc":0.1,
                "zc":0.17
             }
          ]
