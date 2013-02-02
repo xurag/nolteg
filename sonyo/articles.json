@@ -832,7 +832,7 @@
          "id":"41840",
          "representations":[
             {
-               "resource":"Nachtschrank40.png",
+               "resource":"Nachtschrank40cm.png",
                "_comment":"41840   40breit 46tief",
                "mode":"2D_TOP",
                "xo":-333,
@@ -905,7 +905,7 @@
          "id":"41850",
          "representations":[
             {
-               "resource":"Nachtschrank50.png",
+               "resource":"Nachtschrank50cm.png",
                "_comment":"41850 breite 50",
                "mode":"2D_TOP",
                "xo":-330,
@@ -978,7 +978,7 @@
          "id":"41860",
          "representations":[
             {
-               "resource":"Nachtschrank60.png",
+               "resource":"Nachtschrank60cm.png",
                "_comment":"41860 60breit ",
                "mode":"2D_TOP",
                "xo":-289,
@@ -1051,7 +1051,7 @@
          "id":"41880",
          "representations":[
             {
-               "resource":"Nachtschrank80.png",
+               "resource":"Nachtschrank80cm.png",
                "_comment":"41880   80breit ",
                "mode":"2D_TOP",
                "xo":-246,
@@ -1167,9 +1167,9 @@
                "type":"PARENT",
                "key":"MiddleSingleGrandParent",
                "pkey":"MiddleSingleGrandChild",
-               "xc":0.4,
+               "xc":0.40,
                "yc":0,
-               "zc":0,
+               "zc":-0.03,
                "xd":0,
                "yd":0,
                "zd":1
@@ -1191,11 +1191,11 @@
          "points":[
             {
                "type":"PARENT",
-               "key":"MiddleDoubleGrandParent",
-               "pkey":"MiddleDoubleGrandChild",
-               "xc":87.5,
+               "key":"MiddleDoubleGrandParent1",
+               "pkey":"MiddleDoubleGrandChild*",
+               "xc":0.875,
                "yc":0,
-               "zc":0,
+               "zc":-0.03,
                "xd":0,
                "yd":0,
                "zd":1
