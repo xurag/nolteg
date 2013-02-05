@@ -1,0 +1,52 @@
+<eoxInfoIndex editable="false" thumbWidth="200" thumbHeight="200">
+    <target type="Image">
+        <title>Einzelbetten</title>
+        <thumb>xyz.jpeg</thumb>
+        <reference>cat.armChair</reference>
+    </target>
+    <target type="Image">
+        <title>Doppelbetten</title>
+        <thumb>xyz.jpeg</thumb>
+        <reference>cat.leftAddOn</reference>
+    </target>
+    <target type="Image">
+        <title>Nachtkonsolen</title>
+        <thumb>xyz.jpeg</thumb>
+        <reference>cat.innerAddOn</reference>
+    </target>
+    <target type="Image">
+        <title>Rückenlehnen für Einzelbetten</title>
+        <thumb>xyz.jpeg</thumb>
+        <reference>cat.rightAddOn</reference>
+    </target>
+    <target type="Image">
+        <title>Rückenlehnen für Doppelbetten</title>
+        <thumb>xyz.jpeg</thumb>
+        <reference>cat.corner</reference>
+    </target>
+    <target type="Image">
+        <title>Einzellampen</title>
+        <thumb>xyz.jpeg</thumb>
+        <reference>cat.couch</reference>
+    </target>
+    <target type="Image">
+        <title>Doppellampen</title>
+        <thumb>xyz.jpeg</thumb>
+        <reference>cat.stool</reference>
+    </target>
+    <target type="Image">
+        <title>Polster für Rückenlehnen an Doppelbetten</title>
+        <thumb>xyz.jpeg</thumb>
+        <reference>cat.addOn</reference>
+    </target>
+    <target type="Image">
+        <title>Polster für Rückenlehnen an Einzelbetten</title>
+        <thumb>xyz.jpeg</thumb>
+        <reference>cat.unspecified</reference>
+    </target>
+    <target type="Image">
+        <title>Impressionen</title>
+        <thumb>impression.jpeg</thumb>
+        <reference>cat.impression</reference>
+    </target>
+</eoxInfoIndex>
