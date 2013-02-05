@@ -1150,6 +1150,17 @@
          ],
          "points":[
             {
+               "type":"PARENT",
+               "key":"MiddleSingleGrandParent",
+               "pkey":"MiddleSingleGrandChild*",
+               "xc":0.40,
+               "yc":0,
+               "zc":-0.03,
+               "xd":0,
+               "yd":0,
+               "zd":1
+            },
+            {
                "key":"PLL",
                "type":"INITIAL",
                "pkey":"PLR",
@@ -1178,17 +1189,6 @@
                "xc":0.8,
                "yc":0.1,
                "zc":0.17
-            },
-            {
-               "type":"PARENT",
-               "key":"MiddleSingleGrandParent",
-               "pkey":"MiddleSingleGrandChild",
-               "xc":0.40,
-               "yc":0,
-               "zc":-0.03,
-               "xd":0,
-               "yd":0,
-               "zd":1
             }
          ]
       },
