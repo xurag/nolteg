@@ -1,32 +1,32 @@
 <eoxInfoIndex editable="false" thumbWidth="200" thumbHeight="200">
     <target type="Image">
         <title>Einzelbetten</title>
-        <thumb>xyz.jpeg</thumb>
+        <thumb>Einzelbett1.png</thumb>
         <reference>cat.armChair</reference>
     </target>
     <target type="Image">
         <title>Doppelbetten</title>
-        <thumb>xyz.jpeg</thumb>
+        <thumb>Doppelbett1.png</thumb>
         <reference>cat.leftAddOn</reference>
     </target>
     <target type="Image">
         <title>Nachtkonsolen</title>
-        <thumb>xyz.jpeg</thumb>
+        <thumb>Nachtschrank60cm.png</thumb>
         <reference>cat.innerAddOn</reference>
     </target>
     <target type="Image">
         <title>Rückenlehnen für Einzelbetten</title>
-        <thumb>xyz.jpeg</thumb>
+        <thumb>Holzrueckenlehne1.png</thumb>
         <reference>cat.rightAddOn</reference>
     </target>
     <target type="Image">
         <title>Rückenlehnen für Doppelbetten</title>
-        <thumb>xyz.jpeg</thumb>
+        <thumb>Holzrueckenlehne1.png</thumb>
         <reference>cat.corner</reference>
     </target>
     <target type="Image">
         <title>Einzellampen</title>
-        <thumb>xyz.jpeg</thumb>
+        <thumb>lefthalogen97151.png</thumb>
         <reference>cat.couch</reference>
     </target>
     <target type="Image">
@@ -36,12 +36,12 @@
     </target>
     <target type="Image">
         <title>Polster für Rückenlehnen an Doppelbetten</title>
-        <thumb>xyz.jpeg</thumb>
+        <thumb>NackenpolsterFuerDoppelbett_Holzrueckenlehne1.png</thumb>
         <reference>cat.addOn</reference>
     </target>
     <target type="Image">
         <title>Polster für Rückenlehnen an Einzelbetten</title>
-        <thumb>xyz.jpeg</thumb>
+        <thumb>NackenpolsterFuerEinzelbett_Holzrueckenlehne1.png</thumb>
         <reference>cat.unspecified</reference>
     </target>
     <target type="Image">
