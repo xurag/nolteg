@@ -2,47 +2,47 @@
     <target type="Image">
         <title>Einzelbetten</title>
         <thumb>Einzelbett1.png</thumb>
-        <reference>cat.armChair</reference>
+        <reference>cat.singleBed</reference>
     </target>
     <target type="Image">
         <title>Doppelbetten</title>
         <thumb>Doppelbett1.png</thumb>
-        <reference>cat.leftAddOn</reference>
+        <reference>cat.doubleBed</reference>
     </target>
     <target type="Image">
         <title>Nachtkonsolen</title>
         <thumb>Nachtschrank60cm.png</thumb>
-        <reference>cat.innerAddOn</reference>
+        <reference>cat.bedsideTable</reference>
     </target>
     <target type="Image">
         <title>Rückenlehnen für Einzelbetten</title>
         <thumb>Holzrueckenlehne1.png</thumb>
-        <reference>cat.rightAddOn</reference>
+        <reference>cat.backrestSingle</reference>
     </target>
     <target type="Image">
         <title>Rückenlehnen für Doppelbetten</title>
         <thumb>Holzrueckenlehne1.png</thumb>
-        <reference>cat.corner</reference>
+        <reference>cat.backrestDouble</reference>
     </target>
     <target type="Image">
         <title>Einzellampen</title>
         <thumb>lefthalogen97151.png</thumb>
-        <reference>cat.couch</reference>
+        <reference>cat.singleLamp</reference>
     </target>
     <target type="Image">
         <title>Doppellampen</title>
         <thumb>xyz.jpeg</thumb>
-        <reference>cat.stool</reference>
+        <reference>cat.doubleLamp</reference>
     </target>
     <target type="Image">
         <title>Polster für Rückenlehnen an Doppelbetten</title>
         <thumb>NackenpolsterFuerDoppelbett_Holzrueckenlehne1.png</thumb>
-        <reference>cat.addOn</reference>
+        <reference>cat.upholsterBackrestSingle</reference>
     </target>
     <target type="Image">
         <title>Polster für Rückenlehnen an Einzelbetten</title>
         <thumb>NackenpolsterFuerEinzelbett_Holzrueckenlehne1.png</thumb>
-        <reference>cat.unspecified</reference>
+        <reference>cat.upholsterBackrestDouble</reference>
     </target>
     <target type="Image">
         <title>Impressionen</title>
