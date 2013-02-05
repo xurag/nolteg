@@ -1,0 +1,30 @@
+{
+   "cat.singleBed":[
+      "cat.bedsideTable",
+      "cat.backrestSingle"
+   ],
+   "cat.doubleBed":[
+      "cat.bedsideTable",
+      "cat.backrestDouble"
+   ],
+   "cat.bedsideTable":[
+   ],
+   "cat.backrestSingle":[
+      "cat.singleLamp",
+      "cat.upholsterBackrestDouble"
+   ],
+   "cat.backrestDouble":[
+      "cat.doubleLamp",
+      "cat.upholsterBackrestSingle"
+   ],
+   "cat.singleLamp":[
+   ],
+   "cat.doubleLamp":[
+   ],
+   "cat.upholsterBackrestSingle":[
+      "cat.singleLamp"
+   ],
+   "cat.upholsterBackrestDouble":[
+      "cat.doubleLamp"
+   ]
+}
